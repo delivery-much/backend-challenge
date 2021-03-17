@@ -8,6 +8,8 @@ Atualmente, a única etapa de seu negócio digitalizada é o controle de estoque
 
 Sua tarefa como dev backend consistirá em auxiliar o Seu Zé no processo de digitalização de seu negócio, desenvolvendo um serviço que consuma essas atualizações de estoque e faça o controle de pedidos: rejeitando-os se os produtos não estiverem disponíveis e aceitando-os em caso contrário.
 
+> Ao final do desafio, compartilhe um repositório **privado** no GitHub com a sua solução com o usuário @deliverymuchdevs.
+
 ## Desafio
 
 Para começar, Seu Zé irá disponibilizar um [.csv](products.csv) com a lista de produtos que seu mercado vende, com nome (`name`), preço (`price`) e quantidade (`quantity`). Você precisará criar um processo de carregamento desses dados (por exemplo: um script de populate) para armazená-los em uma base de dados de sua escolha para o projeto. Eles serão os dados iniciais para efetuar o controle de estoque, calcular o preço dos pedidos e validar a existência de produtos enviados pelo serviço de estoque, pois podem haver casos onde será enviado adição ou subtração de produtos que não estão na lista.
@@ -161,4 +163,5 @@ A intenção principal deste desafio é avaliar suas habilidades em:
 - Atender os cenários de uso explicitados;
 - Tratar erros e indisponibilidade de serviços externos;
 - Desenvolver testes;
-- Utilizar Docker.
+- Utilizar Docker;
+- Compartilhar repositório privado da solução com @deliverymuchdevs.
