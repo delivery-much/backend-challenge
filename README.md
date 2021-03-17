@@ -8,7 +8,7 @@ Atualmente, a única etapa de seu negócio digitalizada é o controle de estoque
 
 Sua tarefa como dev backend consistirá em auxiliar o Seu Zé no processo de digitalização de seu negócio, desenvolvendo um serviço que consuma essas atualizações de estoque e faça o controle de pedidos: rejeitando-os se os produtos não estiverem disponíveis e aceitando-os em caso contrário.
 
-> Ao final do desafio, compartilhe um repositório **privado** no GitHub com a sua solução com o usuário @deliverymuchdevs.
+> Ao final do desafio, compartilhe um repositório **privado** no GitHub com a sua solução com o usuário [@deliverymuchdevs](https://github.com/deliverymuchdevs).
 
 ## Desafio
 
@@ -164,4 +164,4 @@ A intenção principal deste desafio é avaliar suas habilidades em:
 - Tratar erros e indisponibilidade de serviços externos;
 - Desenvolver testes;
 - Utilizar Docker;
-- Compartilhar repositório privado da solução com @deliverymuchdevs.
+- Compartilhar repositório privado da solução com [@deliverymuchdevs](https://github.com/deliverymuchdevs).
